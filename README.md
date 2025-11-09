@@ -23,9 +23,9 @@ Aquest projecte forma part del repte Deloitte **DataRide**, amb l’objectiu de 
 
 ## Resultats
 
-- Millora del temps de recorregut mitjà entre barris: **2,829%**  
-- Reducció màxima de desviacions: **324%**  
+- Anàlisi i millora del temps de recorregut mitjà entre barris.
 - Estacions noves generades amb algoritmes genètics que equilibren cobertura i eficiència.
+- Prediccions precises i XatBot.
 
 ## Requisits
 
