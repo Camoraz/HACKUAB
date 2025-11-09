@@ -1,0 +1,33 @@
+linea,nombre_parada,orden_parada,latitud,longitud,color_linea
+Línea Roja,Terminal Línea Roja Inicio,1,40.422768,-3.705704,#FF0000
+Línea Roja,Terminal del Naciones,2,40.431616,-3.706009,#FF0000
+Línea Roja,Parque del Paz,3,40.438372,-3.706848,#FF0000
+Línea Roja,Estación Independencia,4,40.44668,-3.707708,#FF0000
+Línea Roja,Catedral Unidas,5,40.456882,-3.707554,#FF0000
+Línea Roja,Hospital del Sol,6,40.466351,-3.707634,#FF0000
+Línea Roja,Calle del Sol,7,40.473406,-3.707356,#FF0000
+Línea Roja,Terminal Línea Roja Fin,8,40.487614,-3.707203,#FF0000
+Línea Azul,Terminal Línea Azul Inicio,1,40.418191,-3.702511,#0000FF
+Línea Azul,Hospital Esperanza,2,40.419903,-3.689542,#0000FF
+Línea Azul,Libertad Sur,3,40.420281,-3.676902,#0000FF
+Línea Azul,Ayuntamiento del Independencia,4,40.421775,-3.669135,#0000FF
+Línea Azul,Plaza Libertad,5,40.419914,-3.658276,#0000FF
+Línea Azul,Terminal Línea Azul Fin,6,40.418283,-3.644244,#0000FF
+Línea Verde,Terminal Línea Verde Inicio,1,40.426986,-3.693955,#00FF00
+Línea Verde,Puerto del Luna,2,40.433784,-3.686331,#00FF00
+Línea Verde,Estación Libertad,3,40.439173,-3.675053,#00FF00
+Línea Verde,Constitución Centro,4,40.446535,-3.66727,#00FF00
+Línea Verde,Estación Esperanza,5,40.451644,-3.656897,#00FF00
+Línea Verde,Constitución Oeste,6,40.462309,-3.650445,#00FF00
+Línea Verde,Terminal Línea Verde Fin,7,40.468976,-3.643214,#00FF00
+Línea Amarilla,Terminal Línea Amarilla Inicio,1,40.423534,-3.713357,#FFFF00
+Línea Amarilla,Catedral del Estrella,2,40.431865,-3.715003,#FFFF00
+Línea Amarilla,Catedral Unidas,3,40.442467,-3.71324,#FFFF00
+Línea Amarilla,Catedral del República,4,40.448159,-3.712605,#FFFF00
+Línea Amarilla,Terminal Línea Amarilla Fin,5,40.46058,-3.711097,#FFFF00
+Línea Morada,Terminal Línea Morada Inicio,1,40.422355,-3.687009,#800080
+Línea Morada,Ayuntamiento Luna,2,40.421784,-3.675385,#800080
+Línea Morada,Universidad Paz,3,40.422617,-3.667578,#800080
+Línea Morada,Esperanza Oeste,4,40.422726,-3.657132,#800080
+Línea Morada,Terminal del Sol,5,40.423406,-3.64903,#800080
+Línea Morada,Terminal Línea Morada Fin,6,40.422499,-3.640477,#800080
